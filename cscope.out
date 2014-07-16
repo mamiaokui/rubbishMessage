@@ -1,0 +1,181 @@
+cscope 15 $HOME/ssd/rubbishMessage               0000000938
+	@gen/com/mamiaokui/rubbishmessage/BuildConfig.java
+
+2 
+·ckage
+ 
+	gcom
+.
+	gmamŸokui
+.
+	grubbishmes§ge
+;
+
+4 
+public
+ 
+fš®
+ cÏs 
+	cBudCÚfig
+ {
+
+5 
+public
+ 
+fš®
+ 
+boŞ—n
+ 
+	mDEBUG
+ = 
+Œue
+;
+
+	@gen/com/mamiaokui/rubbishmessage/R.java
+
+8 
+·ckage
+ 
+	gcom
+.
+	gmamŸokui
+.
+	grubbishmes§ge
+;
+
+10 
+public
+ 
+fš®
+ cÏs 
+	cR
+ {
+
+11 
+public
+ 
+fš®
+ cÏs 
+	c©Œ
+ {
+
+13 
+public
+ 
+fš®
+ cÏs 
+	cÏyout
+ {
+
+14 
+public
+ 
+fš®
+ 
+	gmaš
+=0x7f020000;
+
+16 
+public
+ 
+fš®
+ cÏs 
+	c¡ršg
+ {
+
+17 
+public
+ 
+fš®
+ 
+	g­p_Çme
+=0x7f030000;
+
+	@src/com/mamiaokui/rubbishmessage/Main.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gmamŸokui
+.
+	grubbishmes§ge
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	g­p
+.
+	gAùiv™y
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+6 
+public
+ cÏs 
+	cMaš
+ 
+ex‹nds
+ 
+	mAùiv™y
+
+
+9 @
+Ov”ride
+
+
+10 
+public
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+)
+
+12 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+maš
+);
+
+15 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+3
+133
+gen/com/mamiaokui/rubbishmessage/BuildConfig.java
+gen/com/mamiaokui/rubbishmessage/R.java
+src/com/mamiaokui/rubbishmessage/Main.java
