@@ -6,6 +6,8 @@ import android.view.View;
 import android.graphics.Color;
 import android.widget.FrameLayout;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.util.Log;
 
 public class Main extends Activity
 {
@@ -23,5 +25,13 @@ public class Main extends Activity
         mView.addView(mWebView);
         mWebView.loadUrl("http://www.baidu.com/");
         mWebView.getSettings().setJavaScriptEnabled(true);
+        
+        mWebView.setWebViewClient(new WebViewClient() {
+                public void onPageFinished(WebView view, String url) {
+                    view.loadUrl("javascript:document.write(1)");
+                }
+            }
+            );
+
     }
 }
